@@ -1,0 +1,15 @@
+.pai{
+    background-color: blueviolet;
+    width: 50%;
+    color: aquamarine;
+}
+.filha{
+    background-color: blue;
+    font-size: 3em;
+    width: 50%;
+}
+html{
+    background-color: black;
+    font-size: 3em;
+}
+h1{color: aliceblue;}
